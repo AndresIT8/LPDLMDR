@@ -1763,3 +1763,102 @@ BCLib - The End  BiomeSource (5219bc1a)
 [02:49:22] [Server thread/INFO]: AkaneIly has made the advancement [Amateur Archaeologist]
 [02:49:49] [Server thread/INFO]: AndresIT8 has made the advancement [Scarlet Temptation]
 [02:50:49] [Server thread/INFO]: AndresIT8 has made the advancement [Amateur Archaeologist]
+[02:55:47] [Server thread/INFO]: AndresIT8 has made the advancement [Wild Grapes]
+[02:56:13] [Worker-Main-20/WARN]: Empty height range: [0 absolute--16 absolute]
+[03:04:07] [Server thread/INFO]: Killuaanwn has made the advancement [Path of Archer]
+[03:04:48] [Server thread/INFO]: Killuaanwn has made the advancement [Smashing Success]
+[03:05:13] [Server thread/INFO]: AkaneIly has made the advancement [Smashing Success]
+[03:07:13] [Server thread/INFO]: AkaneIly has made the advancement [Path of Archer]
+[03:07:39] [Server thread/INFO]: Killuaanwn has made the advancement [Suit Up]
+[03:11:17] [Server thread/INFO]: [Not Secure] <AkaneIly> xaero-waypoint:jarjacha:J:-877:73:278:13:false:0:Internal-overworld-waypoints
+[03:13:08] [Server thread/INFO]: AkaneIly has made the advancement [Take Aim]
+[03:14:02] [Server thread/INFO]: AndresIT8 has made the advancement [Diamonds!]
+[03:14:35] [Server thread/INFO]: AndresIT8 has made the advancement [Isn't It Iron Pick]
+[03:14:36] [Server thread/INFO]: [Not Secure] <AkaneIly> xaero-waypoint:salida:S:-877:-3:290:10:false:0:Internal-overworld-waypoints
+[03:16:32] [Server thread/WARN]: AkaneIly moved wrongly!
+[03:17:22] [Server thread/INFO]: AndresIT8 has made the advancement [Chest Slayer]
+[03:19:51] [Server thread/INFO]: AndresIT8 has made the advancement [Path of Archer]
+[03:21:13] [Server thread/WARN]: Killuaanwn moved wrongly!
+[03:22:15] [Server thread/INFO]: Killuaanwn experienced kinetic energy
+[03:22:48] [Server thread/INFO]: Killuaanwn claimed a grave belonging to Killuaanwn at -715, 3, 192, minecraft:overworld
+[03:23:25] [Server thread/INFO]: Killuaanwn has made the advancement [Wild Grapes]
+[03:26:24] [Server thread/INFO]: AkaneIly lost connection: Disconnected
+[03:26:24] [Server thread/INFO]: AkaneIly left the game
+[03:26:24] [Server thread/INFO]: [voicechat] Disconnecting client AkaneIly
+[03:29:51] [Worker-Main-20/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;391,137,373],type:"minecraft:block"}}]
+[03:29:51] [Worker-Main-20/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:2.0f,range:8,source:{pos:[I;391,137,375],type:"minecraft:block"}}]
+[03:29:51] [Worker-Main-21/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-970854486,-1334817278,-1213663493,436251341],type:"minecraft:entity",y_offset:0.36f}}]
+[03:30:01] [Server thread/INFO]: AkaneIly[/100.121.93.6:53272] logged in with entity id 29898 at (-877.6999999880791, 73.0, 283.98444886793595)
+[03:30:01] [Server thread/INFO]: Syncing config to AkaneIly (090743a8-0f26-38a9-9e59-788a7e795120)
+[03:30:01] [Server thread/INFO]: Loading config from file...
+[03:30:01] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:30:01] [Server thread/INFO]: AkaneIly joined the game
+[03:30:01] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: AkaneIly -> Global
+[03:30:01] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:30:01] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:30:01] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:30:01] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[03:30:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[03:30:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[03:30:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[03:30:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[03:30:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[03:30:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[03:30:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:30:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:30:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:30:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:30:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:30:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:30:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:30:01] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/LPDLMDR/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:30:01] [Server thread/INFO]: [voicechat] Received secret request of AkaneIly (18)
+[03:30:01] [Server thread/INFO]: [voicechat] Sent secret to AkaneIly
+[03:30:02] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player AkaneIly. Claiming: GRAVE / Robbing: INVENTORY
+[03:30:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 090743a8-0f26-38a9-9e59-788a7e795120
+[03:30:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 090743a8-0f26-38a9-9e59-788a7e795120
+[03:30:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AkaneIly (090743a8-0f26-38a9-9e59-788a7e795120) successfully connected to voice chat
+[03:32:52] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-59, z=45}
+[03:32:52] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-60, z=45}
+[03:32:52] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=45, y=-59, z=48}
+[03:33:49] [Server thread/INFO]: AndresIT8 has made the advancement [Take Aim]
+[03:33:51] [Worker-Main-43/ERROR]: Hanging entity at invalid position: class_2338{x=-119, y=-58, z=50}
+[03:34:01] [Server thread/INFO]: Killuaanwn has made the advancement [Path of Fire]
+[03:35:29] [Server thread/INFO]: AkaneIly has made the advancement [Sky of Beginning]
+[03:37:32] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=101, z=1251}
+[03:37:32] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=100, z=1251}
+[03:37:32] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=99, z=1251}
+[03:37:32] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=101, z=1251}
+[03:37:32] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=99, z=1251}
+[03:37:32] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=100, z=1251}
+[03:37:33] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=99, z=1251}
+[03:37:33] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=100, z=1251}
+[03:37:33] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=101, z=1251}
+[03:37:47] [Server thread/INFO]: AkaneIly has made the advancement [Best Friends Forever]
+[03:37:55] [Server thread/INFO]: AndresIT8 has made the advancement [Best Friends Forever]
+[03:38:19] [Server thread/INFO]: AndresIT8 has made the advancement [Acquire Hardware]
+[03:38:25] [Server thread/INFO]: Killuaanwn has made the advancement [Take Aim]
+[03:39:19] [Worker-Main-43/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-970854486,-1334817278,-1213663493,436251341],type:"minecraft:entity",y_offset:0.36f}}]
+[03:39:25] [Server thread/INFO]: AkaneIly has made the advancement [Cobweb Entanglement]
+[03:39:28] [Server thread/INFO]: AndresIT8 has made the advancement [Cobweb Entanglement]
+[03:39:29] [Server thread/INFO]: Villager class_1646['Unemployed'/37250, l='ServerLevel[world]', x=-1274.50, y=32.00, z=73.70] died, message: 'Unemployed was slain by Zombie'
+[03:39:52] [Server thread/INFO]: AkaneIly has made the advancement [Wild Grapes]
+[03:41:16] [Server thread/INFO]: [Not Secure] <Killuaanwn> xaero-waypoint:ALDEA S:A:-1452:98:-1275:6:false:0:Internal-overworld-waypoints
+[03:42:48] [Server thread/INFO]: AndresIT8 has made the advancement [Path of Arcane]
+[03:45:05] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1239, y=36, z=-777} but found not block entity block Block{minecraft:water}[level=6] at location
+[03:45:05] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:water}[level=6] but failed at location class_2338{x=-1239, y=36, z=-777}
+[03:51:23] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-119, y=-58, z=50}
+[03:51:43] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-933, y=66, z=-410}
+[03:51:43] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-935, y=66, z=-408}
+[03:51:43] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-935, y=65, z=-408}
+[03:51:43] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-935, y=64, z=-408}
+[03:51:43] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-932, y=65, z=-407}
+[03:51:43] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-936, y=65, z=-405}
+[03:51:43] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=8, y=-59, z=89}
+[03:51:43] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=8, y=-58, z=89}
+[03:51:43] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=8, y=-57, z=89}
+[03:52:07] [Worker-Main-43/ERROR]: Hanging entity at invalid position: class_2338{x=8, y=-59, z=89}
+[03:52:07] [Worker-Main-43/ERROR]: Hanging entity at invalid position: class_2338{x=8, y=-58, z=89}
+[03:52:07] [Worker-Main-43/ERROR]: Hanging entity at invalid position: class_2338{x=8, y=-57, z=89}
+[03:56:51] [Server thread/INFO]: AkaneIly has made the advancement [Acquire Hardware]
+[03:57:06] [Server thread/INFO]: AndresIT8 has made the advancement [Suit Up]
