@@ -1445,3 +1445,176 @@ BCLib - The End  BiomeSource (5219bc1a)
 [01:54:28] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
 [01:54:28] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [01:54:28] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[02:15:55] [Server thread/INFO]: Adriic230403[/100.67.213.46:50336] logged in with entity id 906 at (5.5, 74.0, -3.5)
+[02:15:55] [Server thread/INFO]: Syncing config to Adriic230403 (d432238f-a2ac-3d64-a668-5adf56dd1e77)
+[02:15:55] [Server thread/INFO]: Loading config from file...
+[02:15:55] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:15:55] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[02:15:55] [Server thread/INFO]: Adriic230403 joined the game
+[02:15:55] [Server thread/INFO]: Adriic230403 has made the advancement [Mythic Mobs]
+[02:15:57] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Adriic230403 -> Global
+[02:15:57] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Adriic230403. Claiming: GRAVE / Robbing: INVENTORY
+[02:15:57] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:15:57] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:15:57] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:15:57] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:15:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:15:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:15:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:15:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:15:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:15:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:15:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:15:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:15:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:15:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:15:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:15:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:15:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:15:57] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/LPDLMDR/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:15:57] [Server thread/INFO]: [voicechat] Received secret request of Adriic230403 (18)
+[02:15:57] [Server thread/INFO]: [voicechat] Sent secret to Adriic230403
+[02:16:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d432238f-a2ac-3d64-a668-5adf56dd1e77
+[02:16:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d432238f-a2ac-3d64-a668-5adf56dd1e77
+[02:16:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Adriic230403 (d432238f-a2ac-3d64-a668-5adf56dd1e77) successfully connected to voice chat
+[02:16:17] [Netty Epoll Server IO #4/INFO]: [bclib] Client requested 2 Files:
+[02:16:17] [Netty Epoll Server IO #4/INFO]: [bclib] 	- bclib.CONFIG_betternether.items
+[02:16:17] [Netty Epoll Server IO #4/INFO]: [bclib] 	- bclib.CONFIG_betternether.biomes
+[02:16:17] [Server thread/INFO]: [bclib] Sending 2 Files to Client:
+[02:16:17] [Server thread/INFO]: [bclib] 	- bclib.CONFIG_betternether.items (4.1 KiB)
+[02:16:17] [Server thread/INFO]: [bclib] 	- bclib.CONFIG_betternether.biomes (3.5 KiB)
+[02:16:19] [Server thread/INFO]: Adriic230403 lost connection: Disconnected
+[02:16:19] [Server thread/INFO]: Adriic230403 left the game
+[02:16:19] [Server thread/INFO]: [voicechat] Disconnecting client Adriic230403
+[02:17:47] [Server thread/INFO]: Adriic230403[/100.67.213.46:50402] logged in with entity id 1107 at (5.5, 74.0, -3.5)
+[02:17:47] [Server thread/INFO]: Syncing config to Adriic230403 (d432238f-a2ac-3d64-a668-5adf56dd1e77)
+[02:17:47] [Server thread/INFO]: Loading config from file...
+[02:17:47] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:17:47] [Server thread/INFO]: Adriic230403 joined the game
+[02:17:49] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:17:49] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Adriic230403 -> Global
+[02:17:49] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:17:49] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:17:49] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:17:49] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Adriic230403. Claiming: GRAVE / Robbing: INVENTORY
+[02:17:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:17:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:17:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:17:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:17:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:17:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:17:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:17:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:17:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:17:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:17:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:17:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:17:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:17:49] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/LPDLMDR/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:17:49] [Server thread/INFO]: [voicechat] Received secret request of Adriic230403 (18)
+[02:17:49] [Server thread/INFO]: [voicechat] Sent secret to Adriic230403
+[02:17:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d432238f-a2ac-3d64-a668-5adf56dd1e77
+[02:17:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d432238f-a2ac-3d64-a668-5adf56dd1e77
+[02:17:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Adriic230403 (d432238f-a2ac-3d64-a668-5adf56dd1e77) successfully connected to voice chat
+[02:19:53] [Server thread/INFO]: AkaneIly[/100.121.93.6:53800] logged in with entity id 1440 at (-9.5, 80.0, 8.5)
+[02:19:53] [Server thread/INFO]: Syncing config to AkaneIly (090743a8-0f26-38a9-9e59-788a7e795120)
+[02:19:53] [Server thread/INFO]: Loading config from file...
+[02:19:53] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:19:53] [Server thread/INFO]: AkaneIly joined the game
+[02:19:53] [Server thread/INFO]: AkaneIly has made the advancement [Mythic Mobs]
+[02:19:55] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:19:55] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: AkaneIly -> Global
+[02:19:55] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player AkaneIly. Claiming: GRAVE / Robbing: INVENTORY
+[02:19:55] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:19:55] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:19:55] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:19:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:19:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:19:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:19:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:19:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:19:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:19:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:19:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:19:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:19:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:19:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:19:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:19:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:19:55] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/LPDLMDR/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:19:55] [Server thread/INFO]: [voicechat] Received secret request of AkaneIly (18)
+[02:19:55] [Server thread/INFO]: [voicechat] Sent secret to AkaneIly
+[02:20:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 090743a8-0f26-38a9-9e59-788a7e795120
+[02:20:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 090743a8-0f26-38a9-9e59-788a7e795120
+[02:20:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AkaneIly (090743a8-0f26-38a9-9e59-788a7e795120) successfully connected to voice chat
+[02:21:25] [Server thread/INFO]: Killuaanwn[/100.65.153.60:58938] logged in with entity id 1701 at (-3.5, 73.0, 1.5)
+[02:21:25] [Server thread/INFO]: Syncing config to Killuaanwn (d5f3148e-8315-369a-8d02-0230b33985a8)
+[02:21:25] [Server thread/INFO]: Loading config from file...
+[02:21:25] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:21:25] [Server thread/INFO]: Killuaanwn joined the game
+[02:21:25] [Server thread/INFO]: Killuaanwn has made the advancement [Mythic Mobs]
+[02:21:27] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:21:27] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:21:27] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Killuaanwn -> Global
+[02:21:27] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:21:27] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:21:27] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Killuaanwn. Claiming: GRAVE / Robbing: INVENTORY
+[02:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:21:27] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/LPDLMDR/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:21:27] [Server thread/INFO]: [voicechat] Received secret request of Killuaanwn (18)
+[02:21:27] [Server thread/INFO]: [voicechat] Sent secret to Killuaanwn
+[02:21:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d5f3148e-8315-369a-8d02-0230b33985a8
+[02:21:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d5f3148e-8315-369a-8d02-0230b33985a8
+[02:21:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Killuaanwn (d5f3148e-8315-369a-8d02-0230b33985a8) successfully connected to voice chat
+[02:22:01] [Server thread/INFO]: AndresIT8[/100.67.26.124:50226] logged in with entity id 1791 at (-3.5, 74.0, 2.5)
+[02:22:01] [Server thread/INFO]: Syncing config to AndresIT8 (a7b061e1-df33-36a2-a27a-45502f9f615c)
+[02:22:01] [Server thread/INFO]: Loading config from file...
+[02:22:01] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:22:01] [Server thread/INFO]: AndresIT8 joined the game
+[02:22:01] [Server thread/INFO]: AndresIT8 has made the advancement [Mythic Mobs]
+[02:22:03] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:22:03] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: AndresIT8 -> Global
+[02:22:03] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:22:03] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:22:03] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player AndresIT8. Claiming: GRAVE / Robbing: INVENTORY
+[02:22:03] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:22:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:22:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:22:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:22:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:22:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:22:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:22:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:22:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:22:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:22:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:22:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:22:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:22:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:22:03] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/LPDLMDR/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:22:03] [Server thread/INFO]: [voicechat] Received secret request of AndresIT8 (18)
+[02:22:03] [Server thread/INFO]: [voicechat] Sent secret to AndresIT8
+[02:22:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a7b061e1-df33-36a2-a27a-45502f9f615c
+[02:22:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a7b061e1-df33-36a2-a27a-45502f9f615c
+[02:22:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AndresIT8 (a7b061e1-df33-36a2-a27a-45502f9f615c) successfully connected to voice chat
+[02:22:19] [Netty Epoll Server IO #6/INFO]: [bclib] Client requested 2 Files:
+[02:22:19] [Netty Epoll Server IO #6/INFO]: [bclib] 	- bclib.CONFIG_betternether.items
+[02:22:19] [Netty Epoll Server IO #6/INFO]: [bclib] 	- bclib.CONFIG_betternether.biomes
+[02:22:19] [Server thread/INFO]: [bclib] Sending 2 Files to Client:
+[02:22:19] [Server thread/INFO]: [bclib] 	- bclib.CONFIG_betternether.items (4.1 KiB)
+[02:22:19] [Server thread/INFO]: [bclib] 	- bclib.CONFIG_betternether.biomes (3.5 KiB)
+[02:22:21] [Server thread/INFO]: AndresIT8 lost connection: Disconnected
+[02:22:21] [Server thread/INFO]: AndresIT8 left the game
+[02:22:21] [Server thread/INFO]: [voicechat] Disconnecting client AndresIT8
