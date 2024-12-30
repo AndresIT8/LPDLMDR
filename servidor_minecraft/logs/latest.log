@@ -1618,3 +1618,124 @@ BCLib - The End  BiomeSource (5219bc1a)
 [02:22:21] [Server thread/INFO]: AndresIT8 lost connection: Disconnected
 [02:22:21] [Server thread/INFO]: AndresIT8 left the game
 [02:22:21] [Server thread/INFO]: [voicechat] Disconnecting client AndresIT8
+[02:24:09] [Server thread/INFO]: AndresIT8[/100.67.26.124:50436] logged in with entity id 2116 at (-3.5, 74.0, 2.5)
+[02:24:09] [Server thread/INFO]: Syncing config to AndresIT8 (a7b061e1-df33-36a2-a27a-45502f9f615c)
+[02:24:09] [Server thread/INFO]: Loading config from file...
+[02:24:09] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:24:09] [Server thread/INFO]: AndresIT8 joined the game
+[02:24:10] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: AndresIT8 -> Global
+[02:24:10] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:24:10] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:24:10] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player AndresIT8. Claiming: GRAVE / Robbing: INVENTORY
+[02:24:10] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:24:10] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:24:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:24:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:24:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:24:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:24:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:24:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:24:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:24:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:24:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:24:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:24:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:24:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:24:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:24:10] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/LPDLMDR/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:24:10] [Server thread/INFO]: [voicechat] Received secret request of AndresIT8 (18)
+[02:24:10] [Server thread/INFO]: [voicechat] Sent secret to AndresIT8
+[02:24:13] [Server thread/INFO]: Player literal{Adriic230403} chose Origin: origins-plus-plus:child_of_cthulhu, for layer: origins:origin
+[02:24:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a7b061e1-df33-36a2-a27a-45502f9f615c
+[02:24:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a7b061e1-df33-36a2-a27a-45502f9f615c
+[02:24:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AndresIT8 (a7b061e1-df33-36a2-a27a-45502f9f615c) successfully connected to voice chat
+[02:24:45] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[02:24:45] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[02:24:54] [Server thread/INFO]: Player literal{Adriic230403} chose Origin: origins-classes:warrior, for layer: origins-classes:class
+[02:24:56] [Server thread/INFO]: Killuaanwn has made the advancement [Stone Age]
+[02:25:04] [Server thread/INFO]: AkaneIly has made the advancement [Monster Hunter]
+[02:25:25] [Server thread/INFO]: Killuaanwn has made the advancement [Monster Hunter]
+[02:26:05] [Server thread/INFO]: Killuaanwn has made the advancement [Getting an Upgrade]
+[02:26:27] [Server thread/INFO]: AkaneIly has made the advancement [Stone Age]
+[02:26:35] [Server thread/INFO]: AkaneIly has made the advancement [Getting an Upgrade]
+[02:26:53] [Server thread/INFO]: Adriic230403 has made the advancement [Monster Hunter]
+[02:28:10] [Server thread/INFO]: AkaneIly has made the advancement [Scarlet Temptation]
+[02:28:32] [Server thread/INFO]: Player literal{AndresIT8} chose Origin: origins-plus-plus:felvaxian, for layer: origins:origin
+[02:28:40] [Server thread/INFO]: Player literal{AndresIT8} chose Origin: origins-classes:blacksmith, for layer: origins-classes:class
+[02:29:04] [Server thread/INFO]: Adriic230403 has made the advancement [Scarlet Temptation]
+[02:29:17] [Server thread/INFO]: Made AndresIT8 a server operator
+[02:29:28] [Server thread/INFO]: Killuaanwn has made the advancement [Acquire Hardware]
+[02:29:33] [Server thread/INFO]: Killuaanwn has made the advancement [Isn't It Iron Pick]
+[02:29:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-11, y=61, z=-2}
+[02:29:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-11, y=62, z=-3}
+[02:29:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-11, y=61, z=-2}
+[02:29:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-10, y=61, z=-2}
+[02:29:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-12, y=62, z=-2}
+[02:29:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-12, y=62, z=-1}
+[02:29:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-12, y=62, z=0}
+[02:29:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-11, y=61, z=0}
+[02:29:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-10, y=61, z=0}
+[02:29:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-9, y=62, z=0}
+[02:29:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-11, y=61, z=0}
+[02:29:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-12, y=62, z=-1}
+[02:29:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-12, y=62, z=-2}
+[02:29:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-11, y=62, z=-3}
+[02:29:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-10, y=62, z=-4}
+[02:29:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-10, y=62, z=-4}
+[02:29:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=64, z=12}
+[02:29:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=63, z=12}
+[02:29:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=63, z=12}
+[02:29:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-4, y=63, z=12}
+[02:29:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-4, y=63, z=12}
+[02:29:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-4, y=62, z=10}
+[02:29:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-4, y=62, z=10}
+[02:29:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-4, y=62, z=10}
+[02:29:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-4, y=62, z=10}
+[02:29:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-4, y=62, z=9}
+[02:29:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-4, y=62, z=9}
+[02:29:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-4, y=62, z=9}
+[02:29:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-4, y=62, z=8}
+[02:29:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-4, y=62, z=8}
+[02:29:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=62, z=9}
+[02:29:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=62, z=9}
+[02:29:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=62, z=8}
+[02:29:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=62, z=8}
+[02:29:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=62, z=9}
+[02:29:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=62, z=9}
+[02:29:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-4, y=62, z=9}
+[02:29:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=62, z=9}
+[02:30:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=62, z=9}
+[02:30:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=62, z=9}
+[02:30:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=62, z=9}
+[02:30:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=62, z=9}
+[02:30:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=62, z=9}
+[02:30:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=62, z=9}
+[02:30:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-3, y=62, z=8}
+[02:30:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-7, y=63, z=1}
+[02:30:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-7, y=63, z=0}
+[02:30:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-11, y=62, z=-3}
+[02:30:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-10, y=62, z=-4}
+[02:30:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=-11, y=62, z=-3}
+[02:30:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=5, y=61, z=9}
+[02:30:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=4, y=61, z=10}
+[02:30:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=4, y=62, z=11}
+[02:30:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=4, y=62, z=11}
+[02:30:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=4, y=62, z=11}
+[02:30:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=4, y=62, z=11}
+[02:30:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=4, y=62, z=11}
+[02:30:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=4, y=62, z=11}
+[02:30:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=4, y=63, z=15}
+[02:30:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=4, y=63, z=15}
+[02:30:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=4, y=63, z=15}
+[02:30:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=4, y=63, z=15}
+[02:30:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=4, y=62, z=11}
+[02:30:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=4, y=62, z=11}
+[02:30:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=4, y=62, z=11}
+[02:31:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=1} class_2338{x=3, y=62, z=11}
+[02:32:17] [Server thread/INFO]: Adriic230403 has made the advancement [Acquire Hardware]
+[02:32:24] [Server thread/INFO]: Adriic230403 has made the advancement [Stone Age]
+[02:32:56] [Server thread/INFO]: Player literal{AkaneIly} chose Origin: origins-plus-plus:demi_god, for layer: origins:origin
+[02:33:14] [Server thread/INFO]: Adriic230403 was shot by Skeleton
+[02:33:18] [Server thread/INFO]: Adriic230403 claimed a grave belonging to Adriic230403 at -12, 65, -5, minecraft:overworld
+[02:33:22] [Server thread/INFO]: Adriic230403 has made the advancement [Path of Archer]
+[02:33:32] [Server thread/INFO]: Player literal{AkaneIly} chose Origin: origins-classes:warrior, for layer: origins-classes:class
