@@ -41,6 +41,18 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-12-30 04:52:24 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_chair": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
@@ -107,6 +119,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_taburet": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
@@ -125,9 +155,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_taburet": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
     },
     "done": true
   },
@@ -143,15 +185,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2024-12-30 04:46:17 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/jungle_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_chair": {
+    "criteria": {
+      "has_slab": "2024-12-30 04:46:31 +0000"
     },
     "done": true
   },
@@ -164,6 +224,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-30 03:56:06 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_shelf": {
+    "criteria": {
+      "has_slab": "2024-12-30 04:46:31 +0000"
     },
     "done": true
   },
@@ -263,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-30 04:16:57 +0000"
@@ -272,6 +344,12 @@
   "betterend:recipes/decorations/lacugrove_chair": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
     },
     "done": true
   },
@@ -344,6 +422,12 @@
   "ae2:recipes/misc/network/parts/quartz_fiber_part": {
     "criteria": {
       "has_dusts/quartz": "2024-12-30 03:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
     },
     "done": true
   },
@@ -443,6 +527,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:46:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2024-12-30 04:52:24 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2024-12-30 03:42:58 +0000"
@@ -476,6 +572,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-30 04:25:48 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2024-12-30 04:46:31 +0000"
     },
     "done": true
   },
@@ -690,6 +792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-30 03:07:50 +0000"
@@ -711,6 +819,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-12-30 03:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
     },
     "done": true
   },
@@ -816,6 +930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_sign": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
@@ -825,6 +945,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-30 03:27:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2024-12-30 04:46:17 +0000"
     },
     "done": true
   },
@@ -867,6 +993,12 @@
   "create:recipes/building_blocks/jungle_window": {
     "criteria": {
       "has_ingredient": "2024-12-30 04:29:29 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_platform": {
+    "criteria": {
+      "has_slab": "2024-12-30 04:46:31 +0000"
     },
     "done": true
   },
@@ -960,6 +1092,12 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-12-30 04:52:24 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_fence": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
@@ -981,6 +1119,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-30 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:46:15 +0000"
     },
     "done": true
   },
@@ -1080,15 +1224,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:46:15 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2024-12-30 03:56:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_chair": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-30 04:46:31 +0000"
     },
     "done": true
   },
@@ -1212,6 +1374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-30 04:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-30 02:45:17 +0000"
@@ -1272,9 +1440,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-30 04:52:41 +0000"
+    },
+    "done": true
+  },
   "vinery:main/root": {
     "criteria": {
       "seeds": "2024-12-30 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
     },
     "done": true
   },
@@ -1287,6 +1467,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:29:28 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_coffee_table": {
+    "criteria": {
+      "has_slab": "2024-12-30 04:46:31 +0000"
     },
     "done": true
   },
@@ -1506,6 +1692,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/recipe_diamond_brush": {
+    "criteria": {
+      "has_item": "2024-12-30 04:46:17 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_sign": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
@@ -1527,6 +1719,12 @@
   "betterend:recipes/decorations/jellyshroom_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:46:15 +0000"
     },
     "done": true
   },
@@ -1581,6 +1779,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-30 03:48:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2024-12-30 04:46:17 +0000"
     },
     "done": true
   },
@@ -1650,6 +1854,18 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/red_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-30 04:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/compressor": {
     "criteria": {
       "has_compressor": "2024-12-30 02:29:28 +0000"
@@ -1700,6 +1916,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/willow_gate": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
@@ -1742,6 +1964,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/taburet_cincinnasite": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
@@ -1757,6 +1985,12 @@
   "betternether:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_step": {
+    "criteria": {
+      "has_slab": "2024-12-30 04:46:31 +0000"
     },
     "done": true
   },
@@ -1808,6 +2042,18 @@
     },
     "done": true
   },
+  "adorn:recipes/spruce_table": {
+    "criteria": {
+      "has_slab": "2024-12-30 04:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/rubeus_gate": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
@@ -1832,9 +2078,21 @@
     },
     "done": true
   },
+  "adorn:recipes/spruce_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:46:15 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
     "criteria": {
       "has_certus_quartz_dust": "2024-12-30 03:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
     },
     "done": true
   },
@@ -1886,6 +2144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-30 02:24:56 +0000"
@@ -1907,6 +2171,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-30 03:48:10 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-30 04:46:15 +0000"
     },
     "done": true
   },
@@ -1946,6 +2216,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-30 04:52:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2024-12-30 02:24:37 +0000"
@@ -1955,6 +2231,12 @@
   "betternether:recipes/decorations/nether_mushroom_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-30 04:49:25 +0000"
     },
     "done": true
   },
@@ -2026,6 +2308,12 @@
     },
     "done": true
   },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-30 04:46:15 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/mossy_stone_brick_post": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-30 03:05:44 +0000"
@@ -2068,6 +2356,12 @@
     },
     "done": true
   },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-30 04:46:15 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_fence": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
@@ -2092,9 +2386,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:46:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2024-12-30 03:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
     },
     "done": true
   },
@@ -2116,6 +2422,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-30 04:46:15 +0000"
+    },
+    "done": true
+  },
   "ae2:main/presses": {
     "criteria": {
       "calculation": "2024-12-30 03:43:42 +0000",
@@ -2127,6 +2445,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 03:18:34 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-30 04:46:15 +0000"
     },
     "done": true
   },
@@ -2157,6 +2481,12 @@
   "betterend:recipes/decorations/lucernia_sign": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red_double": {
+    "criteria": {
+      "has_item": "2024-12-30 04:54:08 +0000"
     },
     "done": true
   },
@@ -2199,6 +2529,12 @@
   "betterend:recipes/misc/copy_tool_assembly": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:46:15 +0000"
     },
     "done": true
   },
@@ -2292,6 +2628,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-12-30 04:52:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-30 02:24:15 +0000"
@@ -2331,6 +2673,24 @@
   "betternether:recipes/decorations/nether_sakura_fence": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-30 04:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
     },
     "done": true
   },
@@ -2484,6 +2844,24 @@
     },
     "done": true
   },
+  "adorn:recipes/spruce_post": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-30 04:46:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2024-12-30 04:46:17 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-30 02:24:35 +0000"
@@ -2556,6 +2934,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-30 04:46:17 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/andesite_pedestal": {
     "criteria": {
       "has_polished_andesite": "2024-12-30 03:01:50 +0000"
@@ -2571,6 +2955,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-30 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/gold_chandelier": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
     },
     "done": true
   },
@@ -2601,6 +2991,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:29:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_black": {
+    "criteria": {
+      "has_item": "2024-12-30 04:52:24 +0000"
     },
     "done": true
   },
@@ -2643,6 +3039,12 @@
   "betterend:recipes/decorations/end_lotus_chair": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
     },
     "done": true
   },
@@ -2727,6 +3129,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-30 03:48:10 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
     },
     "done": true
   },
@@ -2994,6 +3402,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_red": {
+    "criteria": {
+      "has_item": "2024-12-30 04:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-30 03:01:51 +0000"
@@ -3009,6 +3423,12 @@
   "betterend:recipes/misc/iron_hammer": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:46:15 +0000"
     },
     "done": true
   },
@@ -3162,9 +3582,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-30 04:52:41 +0000"
+    },
+    "done": false
+  },
   "betternether:recipes/decorations/wart_chair": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:46:15 +0000"
     },
     "done": true
   },
@@ -3183,6 +3615,18 @@
   "betterend:recipes/misc/diamond_hammer": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:46:15 +0000"
     },
     "done": true
   },
@@ -3210,9 +3654,21 @@
     },
     "done": true
   },
+  "adorn:recipes/spruce_drawer": {
+    "criteria": {
+      "has_slab": "2024-12-30 04:46:31 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/oak_wine_rack_small": {
     "criteria": {
       "has_oak_planks": "2024-12-30 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2024-12-30 04:46:17 +0000"
     },
     "done": true
   },
@@ -3254,7 +3710,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-30 04:54:23 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-30 02:47:56 +0000",
+      "minecraft:frozen_river": "2024-12-30 04:51:46 +0000",
       "minecraft:birch_forest": "2024-12-30 02:56:33 +0000",
       "minecraft:windswept_hills": "2024-12-30 04:38:54 +0000",
       "minecraft:bamboo_jungle": "2024-12-30 04:10:13 +0000",
@@ -3262,15 +3720,21 @@
       "minecraft:dark_forest": "2024-12-30 02:21:26 +0000",
       "minecraft:sparse_jungle": "2024-12-30 03:01:05 +0000",
       "minecraft:river": "2024-12-30 02:45:17 +0000",
+      "minecraft:snowy_plains": "2024-12-30 04:51:47 +0000",
+      "minecraft:snowy_taiga": "2024-12-30 04:45:55 +0000",
       "minecraft:swamp": "2024-12-30 03:00:48 +0000",
       "minecraft:cold_ocean": "2024-12-30 04:39:45 +0000",
       "minecraft:forest": "2024-12-30 04:17:09 +0000",
       "minecraft:lush_caves": "2024-12-30 03:13:51 +0000",
+      "minecraft:ice_spikes": "2024-12-30 04:51:58 +0000",
+      "minecraft:frozen_ocean": "2024-12-30 04:45:57 +0000",
       "minecraft:desert": "2024-12-30 03:45:05 +0000",
       "minecraft:windswept_forest": "2024-12-30 04:39:42 +0000",
       "minecraft:jungle": "2024-12-30 03:02:02 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-30 02:43:16 +0000",
+      "minecraft:snowy_beach": "2024-12-30 04:52:29 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-30 02:48:21 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-30 04:45:52 +0000",
       "minecraft:plains": "2024-12-30 04:06:01 +0000"
     },
     "done": false
@@ -3323,6 +3787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:46:15 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/brewing/tag_cauldron": {
     "criteria": {
       "has_tag_c_iron_ingots": "2024-12-30 02:29:28 +0000"
@@ -3344,6 +3814,18 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-30 03:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-30 04:46:17 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-12-30 04:52:24 +0000"
     },
     "done": true
   },
@@ -3404,6 +3886,12 @@
   "betternether:recipes/decorations/stalagnate_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 04:45:18 +0000"
     },
     "done": true
   },

@@ -1979,3 +1979,14 @@ BCLib - The End  BiomeSource (5219bc1a)
 [04:43:57] [Worker-Main-43/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=101, z=1251}
 [04:43:57] [Worker-Main-43/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=100, z=1251}
 [04:43:57] [Worker-Main-43/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=99, z=1251}
+[04:46:17] [Server thread/INFO]: Killuaanwn has made the advancement [Diamonds!]
+[04:48:54] [Server thread/WARN]: Tried to over-fill a container
+[04:48:56] [Server thread/WARN]: Tried to over-fill a container
+[04:50:20] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=6, y=-57, z=17}
+[04:50:20] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=6, y=-58, z=17}
+[04:50:20] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=6, y=-59, z=17}
+[04:51:56] [Server thread/INFO]: [Not Secure] <AkaneIly> la ñaña del anthony
+[04:51:56] [Server thread/INFO]: Villager class_1646['Unemployed'/130270, l='ServerLevel[world]', x=-1863.28, y=68.00, z=-6431.37] died, message: 'Unemployed suffocated in a wall'
+[04:52:22] [Server thread/INFO]: AndresIT8 has made the advancement [Sky of Beginning]
+[04:52:24] [Server thread/INFO]: Killuaanwn has made the advancement [Sky of Beginning]
+[04:52:44] [Server thread/INFO]: Villager class_1646['Unemployed'/131951, l='ServerLevel[world]', x=-1794.72, y=70.50, z=-6429.63] died, message: 'Unemployed suffocated in a wall'
