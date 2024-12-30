@@ -1862,3 +1862,68 @@ BCLib - The End  BiomeSource (5219bc1a)
 [03:52:07] [Worker-Main-43/ERROR]: Hanging entity at invalid position: class_2338{x=8, y=-57, z=89}
 [03:56:51] [Server thread/INFO]: AkaneIly has made the advancement [Acquire Hardware]
 [03:57:06] [Server thread/INFO]: AndresIT8 has made the advancement [Suit Up]
+[04:04:51] [Server thread/INFO]: AndresIT8 has made the advancement [Sweet Dreams]
+[04:04:55] [Server thread/INFO]: AkaneIly has made the advancement [Sweet Dreams]
+[04:05:15] [Server thread/INFO]: Killuaanwn has made the advancement [Sweet Dreams]
+[04:06:15] [Worker-Main-43/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-970854486,-1334817278,-1213663493,436251341],type:"minecraft:entity",y_offset:0.36f}}]
+[04:06:21] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-221, y=139, z=397}
+[04:06:21] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=99, z=1251}
+[04:06:21] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=100, z=1251}
+[04:06:21] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=101, z=1251}
+[04:06:21] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=101, z=1251}
+[04:06:21] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=100, z=1251}
+[04:06:21] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=99, z=1251}
+[04:06:21] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=101, z=1251}
+[04:06:21] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=99, z=1251}
+[04:06:21] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=100, z=1251}
+[04:09:04] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-2307, y=62, z=-2091} but found not block entity block Block{minecraft:water}[level=2] at location
+[04:09:04] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location class_2338{x=-2307, y=62, z=-2091}
+[04:12:34] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-1, y=-46, z=79}
+[04:12:34] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=1, y=-57, z=78}
+[04:12:34] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=1, y=-57, z=79}
+[04:12:34] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-4, y=-56, z=80}
+[04:12:51] [Server thread/INFO]: AndresIT8 lost connection: Disconnected
+[04:12:51] [Server thread/INFO]: AndresIT8 left the game
+[04:12:51] [Server thread/INFO]: [voicechat] Disconnecting client AndresIT8
+[04:12:53] [Server thread/INFO]: AndresIT8[/100.67.26.124:51424] logged in with entity id 67204 at (-2300.2851655237923, 148.0, -823.1819770019655)
+[04:12:53] [Server thread/INFO]: Syncing config to AndresIT8 (a7b061e1-df33-36a2-a27a-45502f9f615c)
+[04:12:53] [Server thread/INFO]: Loading config from file...
+[04:12:53] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:12:53] [Server thread/INFO]: AndresIT8 joined the game
+[04:12:53] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: AndresIT8 -> Global
+[04:12:53] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player AndresIT8. Claiming: GRAVE / Robbing: INVENTORY
+[04:12:53] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:12:53] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:12:53] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:12:53] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[04:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[04:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[04:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[04:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[04:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[04:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[04:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[04:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[04:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[04:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[04:12:53] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/LPDLMDR/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:12:53] [Server thread/INFO]: [voicechat] Received secret request of AndresIT8 (18)
+[04:12:53] [Server thread/INFO]: [voicechat] Sent secret to AndresIT8
+[04:12:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a7b061e1-df33-36a2-a27a-45502f9f615c
+[04:12:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a7b061e1-df33-36a2-a27a-45502f9f615c
+[04:12:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AndresIT8 (a7b061e1-df33-36a2-a27a-45502f9f615c) successfully connected to voice chat
+[04:13:22] [Server thread/WARN]: Killuaanwn moved wrongly!
+[04:13:23] [Worker-Main-20/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-970854486,-1334817278,-1213663493,436251341],type:"minecraft:entity",y_offset:0.36f}}]
+[04:13:23] [Worker-Main-43/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=101, z=1251}
+[04:13:23] [Worker-Main-43/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=100, z=1251}
+[04:13:23] [Worker-Main-43/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=99, z=1251}
+[04:13:23] [Worker-Main-43/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=101, z=1251}
+[04:13:23] [Worker-Main-43/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=99, z=1251}
+[04:13:23] [Worker-Main-43/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=100, z=1251}
+[04:13:23] [Worker-Main-20/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-970854486,-1334817278,-1213663493,436251341],type:"minecraft:entity",y_offset:0.36f}}]
+[04:13:25] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=99, z=1251}
+[04:13:25] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=100, z=1251}
+[04:13:25] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=101, z=1251}

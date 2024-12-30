@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-30 04:08:30 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_sign": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
@@ -242,6 +248,12 @@
   "betternether:recipes/decorations/bamboo_taburet": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-30 04:05:15 +0000"
     },
     "done": true
   },
@@ -612,6 +624,12 @@
     },
     "done": true
   },
+  "adorn:recipes/trading_station": {
+    "criteria": {
+      "has_emerald": "2024-12-30 04:06:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-30 03:23:19 +0000"
@@ -711,6 +729,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-30 04:08:38 +0000"
     },
     "done": true
   },
@@ -831,6 +855,12 @@
   "betternether:recipes/decorations/mushroom_fir_chair": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2024-12-30 04:08:38 +0000"
     },
     "done": true
   },
@@ -972,6 +1002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-12-30 04:00:43 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2024-12-30 03:56:06 +0000"
@@ -999,6 +1035,12 @@
   "ad_astra:recipes/misc/coal_generator": {
     "criteria": {
       "has_coal_generator": "2024-12-30 02:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-30 04:06:32 +0000"
     },
     "done": true
   },
@@ -1718,6 +1760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-30 04:08:34 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/chair_cincinnasite": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
@@ -1899,6 +1947,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-30 03:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-30 04:08:34 +0000"
     },
     "done": true
   },
@@ -2396,6 +2450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-30 04:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-30 03:05:44 +0000"
@@ -2858,6 +2918,12 @@
     },
     "done": true
   },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2024-12-30 04:08:38 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thallasium_sword_handle": {
     "criteria": {
       "has_item.minecraft.stick": "2024-12-30 02:24:44 +0000"
@@ -2879,6 +2945,12 @@
   "betternether:recipes/decorations/rubeus_fence": {
     "criteria": {
       "has_stick": "2024-12-30 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-30 04:08:30 +0000"
     },
     "done": true
   },
@@ -3024,6 +3096,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-30 02:47:56 +0000",
       "minecraft:birch_forest": "2024-12-30 02:56:33 +0000",
+      "minecraft:bamboo_jungle": "2024-12-30 04:10:13 +0000",
       "minecraft:beach": "2024-12-30 02:57:08 +0000",
       "minecraft:dark_forest": "2024-12-30 02:21:26 +0000",
       "minecraft:sparse_jungle": "2024-12-30 03:01:05 +0000",
@@ -3033,7 +3106,8 @@
       "minecraft:desert": "2024-12-30 03:45:05 +0000",
       "minecraft:jungle": "2024-12-30 03:02:02 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-30 02:43:16 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-30 02:48:21 +0000"
+      "minecraft:old_growth_birch_forest": "2024-12-30 02:48:21 +0000",
+      "minecraft:plains": "2024-12-30 04:06:01 +0000"
     },
     "done": false
   },
