@@ -6748,9 +6748,45 @@
     },
     "done": true
   },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2025-01-04 06:24:58 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/graffiti": {
     "criteria": {
       "has_item": "2025-01-04 06:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-04 06:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-04 06:24:58 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-01-04 06:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-04 06:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-04 06:25:00 +0000"
     },
     "done": true
   },
