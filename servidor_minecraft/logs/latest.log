@@ -2391,3 +2391,9 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [06:39:35] [Server thread/INFO]: Killuaanwn lost connection: Disconnected
 [06:39:35] [Server thread/INFO]: Killuaanwn left the game
 [06:39:35] [Server thread/INFO]: [voicechat] Disconnecting client Killuaanwn
+[06:39:58] [Server thread/INFO]: AkaneIly lost connection: Disconnected
+[06:39:58] [Server thread/INFO]: AkaneIly left the game
+[06:39:58] [Server thread/INFO]: [voicechat] Disconnecting client AkaneIly
+[06:43:54] [Server thread/INFO]: AndresIT8 lost connection: Disconnected
+[06:43:54] [Server thread/INFO]: AndresIT8 left the game
+[06:43:54] [Server thread/INFO]: [voicechat] Disconnecting client AndresIT8

@@ -6760,6 +6760,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 06:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 06:43:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_gray": {
     "criteria": {
       "has_item": "2025-01-04 06:32:46 +0000"
@@ -6781,6 +6793,18 @@
   "immersive_paintings:misc/graffiti": {
     "criteria": {
       "has_item": "2025-01-04 06:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 06:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 06:43:15 +0000"
     },
     "done": true
   },
