@@ -2375,3 +2375,19 @@ BCLib - The End  BiomeSource (7a837794)
 [06:26:29] [Server thread/INFO]: [Not Secure] <AkaneIly> mamavrg
 [06:26:41] [Server thread/INFO]: [Not Secure] <AndresIT8> a buscar un bioma bonito
 [06:29:40] [Server thread/INFO]: AkaneIly has made the advancement [Path of Fire]
+[06:31:04] [Server thread/INFO]: AkaneIly has made the advancement [Path of Arcane]
+[06:33:08] [Server thread/WARN]: AndresIT8 moved wrongly!
+[06:35:08] [Server thread/INFO]: Killuaanwn has made the advancement [Choose your path]
+[06:35:09] [Server thread/INFO]: Killuaanwn has made the advancement [Spellbinder]
+[06:35:51] [Server thread/INFO]: AkaneIly has made the advancement [Choose your path]
+[06:36:06] [Server thread/INFO]: AkaneIly has made the advancement [Path of Frost]
+[06:36:13] [Server thread/INFO]: AndresIT8 has made the advancement [Choose your path]
+[06:37:24] [Server thread/INFO]: Rejected teleport: MissingWaystone
+[06:37:28] [Server thread/INFO]: Rejected teleport: MissingWaystone
+[06:38:19] [Server thread/INFO]: AndresIT8 has made the advancement [Spellbinder]
+[06:39:31] [Server thread/INFO]: [Not Secure] <AkaneIly> entra dc mamaverga
+[06:39:35] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[06:39:35] [Server thread/INFO]: Killuaanwn lost connection: Disconnected
+[06:39:35] [Server thread/INFO]: Killuaanwn left the game
+[06:39:35] [Server thread/INFO]: [voicechat] Disconnecting client Killuaanwn

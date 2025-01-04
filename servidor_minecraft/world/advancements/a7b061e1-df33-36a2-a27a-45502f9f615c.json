@@ -6748,9 +6748,33 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-01-04 06:32:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-01-04 06:32:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray": {
+    "criteria": {
+      "has_item": "2025-01-04 06:32:46 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/basket": {
     "criteria": {
       "has_wheat": "2025-01-04 06:24:58 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-01-04 06:32:46 +0000"
     },
     "done": true
   },
@@ -6769,6 +6793,30 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-01-04 06:24:58 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-01-04 06:32:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-01-04 06:32:46 +0000"
+    },
+    "done": true
+  },
+  "rpg_classes:classes": {
+    "criteria": {
+      "book": "2025-01-04 06:36:13 +0000"
+    },
+    "done": true
+  },
+  "rpg_classes:spellbinder": {
+    "criteria": {
+      "bind": "2025-01-04 06:38:19 +0000"
     },
     "done": true
   },

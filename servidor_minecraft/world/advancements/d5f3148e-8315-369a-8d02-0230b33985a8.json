@@ -5221,6 +5221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-01-04 06:34:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-01-04 06:15:20 +0000"
@@ -5266,6 +5272,18 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 06:15:20 +0000"
+    },
+    "done": true
+  },
+  "rpg_classes:classes": {
+    "criteria": {
+      "book": "2025-01-04 06:35:08 +0000"
+    },
+    "done": true
+  },
+  "rpg_classes:spellbinder": {
+    "criteria": {
+      "bind": "2025-01-04 06:35:09 +0000"
     },
     "done": true
   },
