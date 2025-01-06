@@ -6663,6 +6663,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/livingrock_wall": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_magenta": {
     "criteria": {
       "has_magenta_dye": "2025-01-06 05:17:28 +0000"
@@ -6729,6 +6735,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/slab_recombine/livingrock": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_light_gray": {
     "criteria": {
       "has_light_gray_dye": "2025-01-06 05:17:27 +0000"
@@ -6747,6 +6759,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/white_pavement": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-06 05:16:26 +0000"
@@ -6759,6 +6777,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_void": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thallasium_bulb_lantern_light_gray": {
     "criteria": {
       "has_light_gray_dye": "2025-01-06 05:17:27 +0000"
@@ -6768,6 +6792,12 @@
   "ae2:recipes/misc/network/cables/smart_pink": {
     "criteria": {
       "has_dyes/black": "2025-01-06 05:17:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/polished_livingrock": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
     },
     "done": true
   },
@@ -6807,6 +6837,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/horn_grass": {
+    "criteria": {
+      "has_item": "2025-01-06 05:22:56 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thallasium_bulb_lantern_pink": {
     "criteria": {
       "has_pink_dye": "2025-01-06 05:17:26 +0000"
@@ -6816,6 +6852,12 @@
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-01-06 05:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_pool": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
     },
     "done": true
   },
@@ -6834,6 +6876,18 @@
   "betterend:recipes/misc/thallasium_bulb_lantern_magenta": {
     "criteria": {
       "has_magenta_dye": "2025-01-06 05:17:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blue_pavement": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_spreader": {
+    "criteria": {
+      "has_item": "2025-01-06 05:22:56 +0000"
     },
     "done": true
   },
@@ -6879,6 +6933,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/red_pavement": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-01-06 05:16:26 +0000"
@@ -6909,6 +6969,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/black_pavement": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_pink": {
     "criteria": {
       "has_pink_dye": "2025-01-06 05:17:26 +0000"
@@ -6933,6 +6999,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingwood": {
+    "criteria": {
+      "has_log": "2025-01-06 05:22:56 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-01-06 05:19:29 +0000"
@@ -6942,6 +7014,12 @@
   "ae2:recipes/misc/network/cables/glass_blue": {
     "criteria": {
       "has_dyes/black": "2025-01-06 05:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/diluted_pool": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
     },
     "done": true
   },
@@ -6993,6 +7071,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingrock_slab": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/small_light_gray_industrial_lamp": {
     "criteria": {
       "has_small_light_gray_industrial_lamp": "2025-01-06 05:17:27 +0000"
@@ -7035,6 +7119,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/yellow_pavement": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/terminite_bulb_lantern_pink": {
     "criteria": {
       "has_pink_dye": "2025-01-06 05:17:26 +0000"
@@ -7065,6 +7155,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_item": "2025-01-06 05:22:56 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_white": {
     "criteria": {
       "has_alt_item": "2025-01-06 05:19:29 +0000"
@@ -7074,6 +7170,12 @@
   "betternether:recipes/building_blocks/quartz_glass_blue": {
     "criteria": {
       "has_blue_dye": "2025-01-06 05:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/green_pavement": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
     },
     "done": true
   },
@@ -7119,6 +7221,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingwood_planks": {
+    "criteria": {
+      "has_item": "2025-01-06 05:22:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-01-06 05:16:26 +0000"
@@ -7134,6 +7242,12 @@
   "travelersbackpack:recipes/building_blocks/dye_magenta_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-01-06 05:17:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_stairs": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
     },
     "done": true
   },
@@ -7161,9 +7275,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2025-01-06 05:23:50 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_pink": {
     "criteria": {
       "has_dyes/black": "2025-01-06 05:17:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2025-01-06 05:22:56 +0000"
     },
     "done": true
   },
@@ -7197,9 +7323,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/incense_plate": {
+    "criteria": {
+      "has_item": "2025-01-06 05:22:56 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_pink": {
     "criteria": {
       "has_pink_dye": "2025-01-06 05:17:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2025-01-06 05:22:56 +0000"
     },
     "done": true
   },
@@ -7254,6 +7392,12 @@
   "betterend:recipes/misc/iron_bulb_lantern_blue": {
     "criteria": {
       "has_blue_dye": "2025-01-06 05:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/apothecary_livingrock": {
+    "criteria": {
+      "has_item": "2025-01-06 05:23:50 +0000"
     },
     "done": true
   },
