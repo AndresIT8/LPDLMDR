@@ -3304,7 +3304,8 @@
   "vinery:main/crop_collector": {
     "criteria": {
       "vinery:jungle_grape_seeds_red": "2024-12-30 03:39:52 +0000",
-      "vinery:taiga_grape_seeds_white": "2024-12-31 04:36:18 +0000"
+      "vinery:taiga_grape_seeds_white": "2024-12-31 04:36:18 +0000",
+      "vinery:taiga_grape_seeds_red": "2025-01-07 00:57:03 +0000"
     },
     "done": false
   },
@@ -7443,6 +7444,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mana_ring": {
+    "criteria": {
+      "has_item": "2025-01-07 00:54:19 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/mossy_livingwood_planks": {
     "criteria": {
       "has_item": "2025-01-07 00:45:00 +0000"
@@ -7518,6 +7525,12 @@
   "botania:recipes/building_blocks/framed_livingwood": {
     "criteria": {
       "has_item": "2025-01-07 00:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-07 00:56:22 +0000"
     },
     "done": true
   },
@@ -7671,6 +7684,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mana_mirror": {
+    "criteria": {
+      "has_item": "2025-01-07 00:54:19 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-01-07 00:40:15 +0000"
@@ -7746,6 +7765,12 @@
   "botania:recipes/misc/petal_light_gray_double": {
     "criteria": {
       "has_alt_item": "2025-01-07 00:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-07 00:56:22 +0000"
     },
     "done": true
   },
