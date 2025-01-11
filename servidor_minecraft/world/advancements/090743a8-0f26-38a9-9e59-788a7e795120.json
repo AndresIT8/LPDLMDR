@@ -7867,6 +7867,12 @@
     },
     "done": true
   },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 21:10:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-11 20:47:37 +0000"
@@ -7975,6 +7981,12 @@
     },
     "done": true
   },
+  "vinery:main/get_apple_mash": {
+    "criteria": {
+      "apple_mash": "2025-01-11 21:10:39 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/quartz_blaze": {
     "criteria": {
       "has_item": "2025-01-11 20:30:46 +0000"
@@ -8014,6 +8026,12 @@
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-01-11 20:48:03 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fermentation": {
+    "criteria": {
+      "fermentation_barrel": "2025-01-11 21:10:37 +0000"
     },
     "done": true
   },
@@ -8179,6 +8197,12 @@
     },
     "done": true
   },
+  "vinery:main/apple_press": {
+    "criteria": {
+      "apple_press": "2025-01-11 21:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-01-11 20:47:50 +0000"
@@ -8242,6 +8266,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/red_grape_bag": {
+    "criteria": {
+      "has_red_grape": "2025-01-11 21:04:41 +0000"
     },
     "done": true
   },
@@ -8350,6 +8380,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/place_pot": {
+    "criteria": {
+      "grapevine_pot": "2025-01-11 21:06:41 +0000"
     },
     "done": true
   },
