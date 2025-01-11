@@ -342,6 +342,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-31 04:24:44 +0000",
       "minecraft:skeleton": "2024-12-30 02:27:32 +0000",
+      "minecraft:ravager": "2025-01-11 20:27:57 +0000",
       "minecraft:vindicator": "2024-12-31 04:26:06 +0000",
       "minecraft:spider": "2024-12-30 03:17:21 +0000",
       "minecraft:creeper": "2024-12-30 03:15:36 +0000",
@@ -2097,7 +2098,8 @@
       "tropical_fish": "2024-12-31 05:20:07 +0000",
       "mutton": "2024-12-30 02:36:06 +0000",
       "rotten_flesh": "2024-12-30 02:42:51 +0000",
-      "salmon": "2024-12-30 03:19:13 +0000"
+      "salmon": "2024-12-30 03:19:13 +0000",
+      "cod": "2025-01-11 20:24:15 +0000"
     },
     "done": false
   },
@@ -7402,141 +7404,15 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/mana_pylon": {
+  "botania:recipes/decorations/red_shiny_flower": {
     "criteria": {
-      "has_item": "2025-01-07 00:52:08 +0000"
+      "has_item": "2025-01-07 00:39:56 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/goddess_charm": {
+  "botania:recipes/misc/petal_red": {
     "criteria": {
-      "has_item": "2025-01-07 00:52:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_engine": {
-    "criteria": {
-      "has_item": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_light_gray": {
-    "criteria": {
-      "has_item": "2025-01-07 00:40:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/manadiamond_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-01-07 00:52:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
-    "criteria": {
-      "has_copper_ingots": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
-    "criteria": {
-      "has_item": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_ring": {
-    "criteria": {
-      "has_item": "2025-01-07 00:54:19 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/mossy_livingwood_planks": {
-    "criteria": {
-      "has_item": "2025-01-07 00:45:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-01-07 00:46:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/third_eye": {
-    "criteria": {
-      "has_item": "2025-01-07 00:52:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
-    "criteria": {
-      "has_item": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "immersive_melodies:misc/instruments": {
-    "criteria": {
-      "has_item": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/pattern_framed_livingwood": {
-    "criteria": {
-      "has_item": "2025-01-07 00:45:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
-    "criteria": {
-      "has_item": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/red_string_relay": {
-    "criteria": {
-      "has_base_block": "2025-01-07 00:49:37 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/floating_endoflame": {
-    "criteria": {
-      "has_item": "2025-01-07 00:41:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/copper_nugget": {
-    "criteria": {
-      "has_item": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/runic_altar_alt": {
-    "criteria": {
-      "has_item": "2025-01-07 00:52:08 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/framed_livingwood": {
-    "criteria": {
-      "has_item": "2025-01-07 00:45:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-01-07 00:56:22 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/livingwood_bow": {
-    "criteria": {
-      "has_twig": "2025-01-07 00:49:45 +0000"
+      "has_item": "2025-01-07 00:39:56 +0000"
     },
     "done": true
   },
@@ -7546,15 +7422,21 @@
     },
     "done": true
   },
-  "botania:recipes/misc/livingwood_fence_gate": {
+  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
     "criteria": {
-      "has_item": "2025-01-07 00:45:00 +0000"
+      "has_item": "2025-01-07 00:40:01 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+  "botania:recipes/misc/dye_red": {
     "criteria": {
-      "has_item": "2025-01-07 00:48:00 +0000"
+      "has_item": "2025-01-07 00:40:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_light_gray": {
+    "criteria": {
+      "has_item": "2025-01-07 00:40:15 +0000"
     },
     "done": true
   },
@@ -7564,69 +7446,27 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/red_shiny_flower": {
+  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
     "criteria": {
-      "has_item": "2025-01-07 00:39:56 +0000"
+      "has_item": "2025-01-07 00:40:15 +0000"
     },
     "done": true
   },
-  "botania:recipes/building_blocks/livingwood_planks_slab": {
+  "botania:recipes/misc/petal_light_gray_double": {
     "criteria": {
-      "has_item": "2025-01-07 00:45:00 +0000"
+      "has_alt_item": "2025-01-07 00:40:15 +0000"
     },
     "done": true
   },
-  "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
+  "botania:recipes/decorations/floating_endoflame": {
     "criteria": {
-      "has_copper_ingots": "2025-01-07 00:48:00 +0000"
+      "has_item": "2025-01-07 00:41:44 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/mana_diamond_block": {
+  "botania:main/generating_flower": {
     "criteria": {
-      "has_item": "2025-01-07 00:52:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_whistle": {
-    "criteria": {
-      "has_item": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_backtank": {
-    "criteria": {
-      "has_item": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/redstone_spreader": {
-    "criteria": {
-      "has_item": "2025-01-07 00:49:37 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_tablet_alt": {
-    "criteria": {
-      "has_item": "2025-01-07 00:52:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-01-07 00:40:01 +0000"
+      "flower": "2025-01-07 00:41:44 +0000"
     },
     "done": true
   },
@@ -7636,87 +7476,45 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/avatar": {
+  "botania:main/mana_pool_pickup_lexicon": {
     "criteria": {
-      "has_item": "2025-01-07 00:52:08 +0000"
+      "pickup": "2025-01-07 00:44:07 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+  "botania:recipes/building_blocks/mossy_livingwood_planks": {
     "criteria": {
-      "has_item": "2025-01-07 00:48:00 +0000"
+      "has_item": "2025-01-07 00:45:00 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+  "botania:recipes/building_blocks/pattern_framed_livingwood": {
     "criteria": {
-      "has_item": "2025-01-07 00:48:00 +0000"
+      "has_item": "2025-01-07 00:45:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_block": {
+  "botania:recipes/building_blocks/framed_livingwood": {
     "criteria": {
-      "has_copper_ingot": "2025-01-07 00:48:00 +0000"
+      "has_item": "2025-01-07 00:45:00 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/auto_crafting_halo": {
+  "botania:recipes/misc/livingwood_fence_gate": {
     "criteria": {
-      "has_item": "2025-01-07 00:52:08 +0000"
+      "has_item": "2025-01-07 00:45:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks_slab": {
+    "criteria": {
+      "has_item": "2025-01-07 00:45:00 +0000"
     },
     "done": true
   },
   "botania:recipes/decorations/open_crate": {
     "criteria": {
       "has_item": "2025-01-07 00:45:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-01-07 00:46:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
-    "criteria": {
-      "has_item": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_mirror": {
-    "criteria": {
-      "has_item": "2025-01-07 00:54:19 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-01-07 00:40:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
-    "criteria": {
-      "has_copper_ingots": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_gun": {
-    "criteria": {
-      "has_item": "2025-01-07 00:52:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
-    "criteria": {
-      "has_copper_ingots": "2025-01-07 00:48:00 +0000"
     },
     "done": true
   },
@@ -7738,15 +7536,159 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+  "botania:recipes/misc/livingwood_fence": {
+    "criteria": {
+      "has_item": "2025-01-07 00:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-07 00:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-07 00:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-07 00:46:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-01-07 00:48:00 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/livingwood_fence": {
+  "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
     "criteria": {
-      "has_item": "2025-01-07 00:45:00 +0000"
+      "has_copper_ingots": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-01-07 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-07 00:48:00 +0000"
     },
     "done": true
   },
@@ -7756,45 +7698,9 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_red": {
-    "criteria": {
-      "has_item": "2025-01-07 00:39:56 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_gray_double": {
-    "criteria": {
-      "has_alt_item": "2025-01-07 00:40:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-01-07 00:56:22 +0000"
-    },
-    "done": true
-  },
-  "botania:main/generating_flower": {
-    "criteria": {
-      "flower": "2025-01-07 00:41:44 +0000"
-    },
-    "done": true
-  },
-  "botania:main/mana_pool_pickup_lexicon": {
-    "criteria": {
-      "pickup": "2025-01-07 00:44:07 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-01-07 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_red": {
-    "criteria": {
-      "has_item": "2025-01-07 00:40:01 +0000"
     },
     "done": true
   },
@@ -7804,15 +7710,279 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_relay": {
+    "criteria": {
+      "has_base_block": "2025-01-07 00:49:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/redstone_spreader": {
+    "criteria": {
+      "has_item": "2025-01-07 00:49:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/livingwood_bow": {
+    "criteria": {
+      "has_twig": "2025-01-07 00:49:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_pylon": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/goddess_charm": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/manadiamond_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/third_eye": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/runic_altar_alt": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/mana_diamond_block": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_tablet_alt": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/avatar": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/auto_crafting_halo": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_gun": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/divining_rod": {
     "criteria": {
       "has_item": "2025-01-07 00:52:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "botania:recipes/tools/mana_ring": {
     "criteria": {
-      "has_raw_copper": "2025-01-07 00:46:10 +0000"
+      "has_item": "2025-01-07 00:54:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_mirror": {
+    "criteria": {
+      "has_item": "2025-01-07 00:54:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-07 00:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-07 00:56:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-01-11 20:23:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-11 20:24:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-11 20:24:13 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 20:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-11 20:24:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-01-11 20:23:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-11 20:24:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-11 20:29:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-01-11 20:23:31 +0000"
     },
     "done": true
   },
