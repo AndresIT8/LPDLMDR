@@ -7819,9 +7819,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_slabs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-01-11 20:46:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2025-01-11 20:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 20:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
     },
     "done": true
   },
@@ -7831,9 +7855,27 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_wall_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-01-11 20:46:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 20:46:17 +0000"
     },
     "done": true
   },
@@ -7849,15 +7891,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/brewery": {
     "criteria": {
       "has_alt_item": "2025-01-11 20:23:31 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/smooth_sandstone_post": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 20:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
     },
     "done": true
   },
@@ -7885,9 +7951,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_spade": {
     "criteria": {
       "has_nether_quartz": "2025-01-11 20:30:46 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cobbled_deepslate_post": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
     },
     "done": true
   },
@@ -7909,6 +7993,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 20:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-01-11 20:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-11 20:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_smelting": {
     "criteria": {
       "has_item.minecraft.quartz": "2025-01-11 20:30:46 +0000"
@@ -7918,6 +8032,12 @@
   "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
     },
     "done": true
   },
@@ -7933,6 +8053,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
@@ -7945,15 +8077,57 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-01-11 20:48:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-01-11 20:46:46 +0000"
+    },
+    "done": true
+  },
   "quartzelv:recipes/building_blocks/quartz_elevator": {
     "criteria": {
       "has_quartz": "2025-01-11 20:30:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-11 20:46:46 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2025-01-11 20:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-01-11 20:46:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/charcoal_block": {
+    "criteria": {
+      "has_charcoal": "2025-01-11 20:45:56 +0000"
     },
     "done": true
   },
@@ -7966,6 +8140,12 @@
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-11 20:47:50 +0000"
     },
     "done": true
   },
@@ -7987,9 +8167,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-11 20:47:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-01-11 20:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
     },
     "done": true
   },
@@ -7999,9 +8203,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-01-11 20:30:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-01-11 20:46:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
     },
     "done": true
   },
@@ -8017,9 +8239,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
     },
     "done": true
   },
@@ -8029,15 +8263,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
     "criteria": {
       "has_nether_quartz": "2025-01-11 20:30:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
     },
     "done": true
   },
@@ -8059,6 +8317,12 @@
     },
     "done": true
   },
+  "adorn:recipes/white_table_lamp": {
+    "criteria": {
+      "has_carpet": "2025-01-11 20:47:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-11 20:24:21 +0000"
@@ -8077,9 +8341,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_sword": {
     "criteria": {
       "has_nether_quartz": "2025-01-11 20:30:46 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/blackstone_post": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
     },
     "done": true
   },
@@ -8107,9 +8401,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-01-11 20:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 20:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 20:46:17 +0000"
     },
     "done": true
   },
@@ -8122,6 +8464,12 @@
   "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-11 20:45:40 +0000"
     },
     "done": true
   },
