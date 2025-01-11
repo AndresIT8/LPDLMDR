@@ -2363,3 +2363,4 @@ BCLib - Nether BiomeSource (3bbd2ae4)
 [20:29:14] [Server thread/INFO]: AkaneIly has completed the challenge [Hero of the Village]
 [20:35:12] [Server thread/INFO]: AkaneIly has made the advancement [Fishy Business]
 [20:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2703ms or 54 ticks behind
+[20:53:59] [Server thread/INFO]: Villager class_1646['Farmer'/25573, l='ServerLevel[world]', x=1798.50, y=65.00, z=-6373.76] died, message: 'Farmer was slain by Zombie'
