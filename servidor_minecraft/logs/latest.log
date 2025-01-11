@@ -2369,3 +2369,6 @@ BCLib - Nether BiomeSource (3bbd2ae4)
 [21:10:37] [Server thread/INFO]: AkaneIly has made the advancement [One more step into Winemaking]
 [21:10:39] [Server thread/INFO]: AkaneIly has made the advancement [Step II: Crushing Apples!]
 [21:12:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14762, y=64, z=-7756} class_2338{x=-14763, y=66, z=-7755}
+[21:41:33] [Server thread/INFO]: AkaneIly lost connection: Disconnected
+[21:41:33] [Server thread/INFO]: AkaneIly left the game
+[21:41:34] [Server thread/INFO]: [voicechat] Disconnecting client AkaneIly
