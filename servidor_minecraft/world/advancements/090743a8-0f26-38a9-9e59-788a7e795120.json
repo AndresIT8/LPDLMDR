@@ -7945,6 +7945,12 @@
     },
     "done": true
   },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 21:14:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-11 20:27:02 +0000"
@@ -8044,6 +8050,12 @@
   "betternether:recipes/building_blocks/quartz_glass_smelting": {
     "criteria": {
       "has_item.minecraft.quartz": "2025-01-11 20:30:46 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mug": {
+    "criteria": {
+      "has_glass_bottle": "2025-01-11 21:16:14 +0000"
     },
     "done": true
   },
