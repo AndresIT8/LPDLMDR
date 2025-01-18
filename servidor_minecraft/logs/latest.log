@@ -2292,3 +2292,4 @@ BCLib - The End  BiomeSource (4075a89c)
 [23:04:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AkaneIly (090743a8-0f26-38a9-9e59-788a7e795120) successfully connected to voice chat
 [23:04:38] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [23:04:38] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[23:31:10] [Server thread/INFO]: Villager class_1646['Unemployed'/12015, l='ServerLevel[world]', x=-2230.69, y=72.18, z=933.78] died, message: 'Unemployed was slain by Zombie'
