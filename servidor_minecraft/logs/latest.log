@@ -2293,3 +2293,7 @@ BCLib - The End  BiomeSource (4075a89c)
 [23:04:38] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [23:04:38] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [23:31:10] [Server thread/INFO]: Villager class_1646['Unemployed'/12015, l='ServerLevel[world]', x=-2230.69, y=72.18, z=933.78] died, message: 'Unemployed was slain by Zombie'
+[23:39:06] [Worker-Main-2/WARN]: Empty height range: [0 absolute--16 absolute]
+[23:41:12] [Server thread/INFO]: AkaneIly has made the advancement [When in Rome]
+[23:42:43] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;391,137,373],type:"minecraft:block"}}]
+[23:42:43] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:2.0f,range:8,source:{pos:[I;391,137,375],type:"minecraft:block"}}]

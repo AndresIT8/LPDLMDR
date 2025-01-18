@@ -8133,7 +8133,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:black": "2025-01-11 20:39:31 +0000"
+      "minecraft:black": "2025-01-11 20:39:31 +0000",
+      "minecraft:british_shorthair": "2025-01-18 23:30:52 +0000"
     },
     "done": false
   },
@@ -8533,6 +8534,30 @@
     },
     "done": true
   },
+  "adorn:recipes/acacia_drawer": {
+    "criteria": {
+      "has_slab": "2025-01-18 23:32:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_step": {
+    "criteria": {
+      "has_slab": "2025-01-18 23:32:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_chair": {
+    "criteria": {
+      "has_slab": "2025-01-18 23:32:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_shelf": {
+    "criteria": {
+      "has_slab": "2025-01-18 23:32:13 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/flower_pot": {
     "criteria": {
       "has_brick": "2025-01-18 23:23:41 +0000"
@@ -8557,6 +8582,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-18 23:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-18 23:36:08 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_table": {
+    "criteria": {
+      "has_slab": "2025-01-18 23:32:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-01-18 23:32:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-18 23:26:12 +0000"
@@ -8575,9 +8624,21 @@
     },
     "done": true
   },
+  "adorn:recipes/acacia_platform": {
+    "criteria": {
+      "has_slab": "2025-01-18 23:32:13 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/brick_chimney": {
     "criteria": {
       "has_key_item_0": "2025-01-18 23:23:41 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-01-18 23:36:08 +0000"
     },
     "done": true
   },
@@ -8611,6 +8672,12 @@
     },
     "done": true
   },
+  "adorn:recipes/acacia_bench": {
+    "criteria": {
+      "has_slab": "2025-01-18 23:32:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-01-18 23:23:41 +0000"
@@ -8620,6 +8687,12 @@
   "adorn:recipes/prismarine_chimney": {
     "criteria": {
       "has_key_item_0": "2025-01-18 23:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-18 23:36:08 +0000"
     },
     "done": true
   },
