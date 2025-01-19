@@ -60,6 +60,7 @@
       "minecraft:snowy_plains": "2024-12-30 04:51:45 +0000",
       "minecraft:snowy_taiga": "2024-12-30 04:45:31 +0000",
       "minecraft:swamp": "2024-12-30 03:35:02 +0000",
+      "minecraft:grove": "2025-01-19 05:07:41 +0000",
       "minecraft:cold_ocean": "2024-12-30 04:39:34 +0000",
       "minecraft:forest": "2024-12-30 04:32:08 +0000",
       "minecraft:lush_caves": "2024-12-30 03:13:46 +0000",
@@ -1769,6 +1770,7 @@
       "minecraft:creeper": "2024-12-31 04:40:07 +0000",
       "minecraft:phantom": "2024-12-30 03:53:09 +0000",
       "minecraft:cave_spider": "2024-12-30 04:43:36 +0000",
+      "minecraft:silverfish": "2025-01-19 05:06:32 +0000",
       "minecraft:zombie": "2024-12-30 02:46:13 +0000"
     },
     "done": false
@@ -6748,63 +6750,21 @@
     },
     "done": true
   },
-  "botania:challenge/root": {
-    "criteria": {
-      "flower": "2025-01-04 06:32:46 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/flower_bag": {
-    "criteria": {
-      "has_item": "2025-01-04 06:32:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-04 06:43:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-04 06:43:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_gray": {
-    "criteria": {
-      "has_item": "2025-01-04 06:32:46 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/basket": {
-    "criteria": {
-      "has_wheat": "2025-01-04 06:24:58 +0000"
-    },
-    "done": true
-  },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2025-01-04 06:32:46 +0000"
-    },
-    "done": true
-  },
   "immersive_paintings:misc/graffiti": {
     "criteria": {
       "has_item": "2025-01-04 06:02:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_amethyst_shard": "2025-01-04 06:43:15 +0000"
+      "has_carrot": "2025-01-04 06:18:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
+  "vinery:recipes/basket": {
     "criteria": {
-      "has_amethyst_shard": "2025-01-04 06:43:15 +0000"
+      "has_wheat": "2025-01-04 06:24:58 +0000"
     },
     "done": true
   },
@@ -6817,6 +6777,42 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-01-04 06:24:58 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-01-04 06:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-04 06:25:00 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-01-04 06:32:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-01-04 06:32:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray": {
+    "criteria": {
+      "has_item": "2025-01-04 06:32:46 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-01-04 06:32:46 +0000"
     },
     "done": true
   },
@@ -6844,21 +6840,147 @@
     },
     "done": true
   },
-  "vinery:recipes/straw_hat": {
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
-      "has_wheat": "2025-01-04 06:24:58 +0000"
+      "has_amethyst_shard": "2025-01-04 06:43:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
-      "has_carrot": "2025-01-04 06:18:11 +0000"
+      "has_amethyst_shard": "2025-01-04 06:43:15 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
-      "wheat": "2025-01-04 06:25:00 +0000"
+      "has_amethyst_shard": "2025-01-04 06:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 06:43:15 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/mangrove_wine_rack_small": {
+    "criteria": {
+      "has_mangrove_planks": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/mangrove_wine_rack_big": {
+    "criteria": {
+      "has_mangrove_planks": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mangrove_post": {
+    "criteria": {
+      "has_mangrove_planks": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/mangrove_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-01-19 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-19 05:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mangrove_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-01-19 05:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-01-19 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mangrove_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:11:26 +0000"
     },
     "done": true
   },
